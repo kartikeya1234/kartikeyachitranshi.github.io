@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kartikeya Chitranshi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate student in Scientific Computing with 2 years of research experience in Adversarial Machine Learning."
+  bio    : ""
   links:
     # - label: "Website"
     #  icon: "fas fa-fw fa-link"
