@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I am a former graduate researcher at TU Berlin and Zuse Institute Berlin, investigating the robustness of vision-language foundation models against adversarial attacks and spurious correlations. My work focuses on developing counterfactual and adversarial training methodologies to improve the reliability of multi-modal AI systems in safety-critical applications.
+I am a recent MSc graduate from Technische Universität Berlin and former researcher at Zuse Institute Berlin, where I investigated the robustness of multi-modal foundation models against adversarial attacks and spurious correlations.
