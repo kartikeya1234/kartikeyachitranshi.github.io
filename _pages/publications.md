@@ -19,6 +19,5 @@ Shpresim Sadiku, Kartikeya Chitranshi, Hiroshi Kera, Sebastian Pokutta
   journal={arXiv preprint arXiv:2505.16583},
   year={2025}
 }
-}
 ```
 </details>
