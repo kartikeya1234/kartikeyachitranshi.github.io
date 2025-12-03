@@ -56,6 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 author:
   name   : "Kartikeya Chitranshi"
@@ -92,6 +93,7 @@ footer:
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
+  hide_feed: true
 
 defaults:
   # _posts
