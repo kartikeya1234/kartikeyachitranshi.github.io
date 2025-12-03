@@ -4,4 +4,7 @@ permalink: /CV/
 layout: single
 author_profile: true
 ---
-Here is my detailed [CV](/assets/CV_Corporate.pdf).
+
+<embed src="/assets/CV_Corporate.pdf" type="application/pdf" width="100%" height="800px" />
+
+You can also [download the PDF](/assets/CV_Corporate.pdf) directly.
