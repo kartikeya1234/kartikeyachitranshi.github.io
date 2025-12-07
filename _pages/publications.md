@@ -12,13 +12,15 @@ author_profile: true
 .bibtex {
   margin-top: 10px;
   padding: 10px;
-  background-color: #f5f5f5;
+  background-color: #2d2d2d;
   border-radius: 4px;
 }
 .bibtex pre {
   margin: 0;
   white-space: pre-wrap;
   word-wrap: break-word;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.9em;
 }
 </style>
 
