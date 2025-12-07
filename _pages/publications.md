@@ -12,7 +12,7 @@ author_profile: true
 .bibtex {
   margin-top: 10px;
   padding: 10px;
-  background-color: #2d2d2d;
+  background-color: #1a1a1a;
   border-radius: 4px;
 }
 .bibtex pre {
