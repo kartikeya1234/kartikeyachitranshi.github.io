@@ -1,3 +1,26 @@
+<style>
+.bibtex.noshow {
+  display: none;
+}
+.bibtex {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+</style>
+
+<script>
+function toggleBibtex(label) {
+  var elem = document.getElementById('bib_' + label);
+  if (elem.style.display === 'block') {
+    elem.style.display = 'none';
+  } else {
+    elem.style.display = 'block';
+  }
+}
+</script>
+
 ---
 title: "Publications"
 permalink: /publications/
